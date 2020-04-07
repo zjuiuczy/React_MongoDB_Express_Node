@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Prerequisites
--[nodejs](https://nodejs.org/en/)
--[yarn](https://yarnpkg.com/)
+1.[nodejs](https://nodejs.org/en/)//
+2.[yarn](https://yarnpkg.com/)
 
 ## Easy method to run the app
 1. Start the server
