@@ -1,5 +1,28 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Prerequisites
+-[nodejs](https://nodejs.org/en/)
+-[yarn](https://yarnpkg.com/)
 
+## Easy method to run the app
+1. Start the server
+```bash
+cd backend
+nodemon server
+```
+If it runs successfully, you will see:
+```bash
+Server is running on port: 5000
+MongoDB database connection established successfully
+```
+2. Run the app
+In a new terminal
+```bash
+npm start
+```
+or
+```bash
+yarn start
+```
 ## Available Scripts
 
 In the project directory, you can run:
@@ -11,6 +34,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
 
 ### `yarn test`
 
