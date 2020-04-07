@@ -1,6 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Prerequisites
-1.[nodejs](https://nodejs.org/en/)\
+1.[nodejs](https://nodejs.org/en/)
+You can use following command to check your nodejs installation
+```bash
+node -v
+```
 2.[yarn](https://yarnpkg.com/)
 
 ## Easy method to run the app
@@ -22,6 +26,16 @@ npm start
 or
 ```bash
 yarn start
+```
+## Command Not found?
+try to install all these packages:
+```bash
+npm install express cors mongoose dotenv
+npm install -g nodemon
+npm install bootstrap
+npm install react-router-dom
+npm install react-datepicker
+npm install axios
 ```
 ## Available Scripts
 
