@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Prerequisites
-1.[nodejs](https://nodejs.org/en/)
+1.[nodejs](https://nodejs.org/en/)\
 You can use following command to check your nodejs installation
 ```bash
 node -v
